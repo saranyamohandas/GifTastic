@@ -29,7 +29,7 @@ $(document).ready(function(){
     
     $(".main").on("click",".btnList",function(){
         searchParam= $(this).text();
-        searchQuery =  "http://api.giphy.com/v1/gifs/search?q=cartoons+comics+"+ searchParam + "&limit=10&rating=pg&api_key=UZ94frJzDLfFAxztOhAOuif7KEHeG9u9";
+        searchQuery =  "https://api.giphy.com/v1/gifs/search?q=cartoons+comics+"+ searchParam + "&limit=10&rating=pg&api_key=UZ94frJzDLfFAxztOhAOuif7KEHeG9u9";
         
           $.ajax({
               url: searchQuery,
