@@ -14,4 +14,4 @@ ___
 * User can add additional cartoons or comics using add button.
 
  
-__Published git link to app__ : https://saranyamohandas.github.io/GifTastic/Gif API application
+__Published git link to app__ : https://saranyamohandas.github.io/GifTastic/
